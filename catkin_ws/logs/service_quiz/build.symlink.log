@@ -1,0 +1,20 @@
+Linked: (/home/user/catkin_ws/devel/.private/service_quiz/lib/pkgconfig/service_quiz.pc, /home/user/catkin_ws/devel/lib/pkgconfig/service_quiz.pc)
+Symlinking /home/user/catkin_ws/devel/lib/python3/dist-packages/service_quiz/__init__.py
+Symlinking /home/user/catkin_ws/devel/lib/python3/dist-packages/service_quiz/srv/__init__.py
+Symlinking /home/user/catkin_ws/devel/lib/python3/dist-packages/service_quiz/srv/_BB8CustomServiceMessage.py
+Symlinking /home/user/catkin_ws/devel/include/service_quiz/BB8CustomServiceMessage.h
+Symlinking /home/user/catkin_ws/devel/include/service_quiz/BB8CustomServiceMessageResponse.h
+Symlinking /home/user/catkin_ws/devel/include/service_quiz/BB8CustomServiceMessageRequest.h
+Symlinking /home/user/catkin_ws/devel/share/common-lisp/ros/service_quiz/srv/service_quiz-srv.asd
+Symlinking /home/user/catkin_ws/devel/share/common-lisp/ros/service_quiz/srv/_package.lisp
+Symlinking /home/user/catkin_ws/devel/share/common-lisp/ros/service_quiz/srv/_package_BB8CustomServiceMessage.lisp
+Symlinking /home/user/catkin_ws/devel/share/common-lisp/ros/service_quiz/srv/BB8CustomServiceMessage.lisp
+Symlinking /home/user/catkin_ws/devel/share/roseus/ros/service_quiz/manifest.l
+Symlinking /home/user/catkin_ws/devel/share/roseus/ros/service_quiz/srv/BB8CustomServiceMessage.l
+Symlinking /home/user/catkin_ws/devel/share/service_quiz/cmake/service_quiz-msg-paths.cmake
+Linked: (/home/user/catkin_ws/devel/.private/service_quiz/share/service_quiz/cmake/service_quizConfig.cmake, /home/user/catkin_ws/devel/share/service_quiz/cmake/service_quizConfig.cmake)
+Symlinking /home/user/catkin_ws/devel/share/service_quiz/cmake/service_quiz-msg-extras.cmake
+Linked: (/home/user/catkin_ws/devel/.private/service_quiz/share/service_quiz/cmake/service_quizConfig-version.cmake, /home/user/catkin_ws/devel/share/service_quiz/cmake/service_quizConfig-version.cmake)
+Symlinking /home/user/catkin_ws/devel/share/gennodejs/ros/service_quiz/_index.js
+Symlinking /home/user/catkin_ws/devel/share/gennodejs/ros/service_quiz/srv/_index.js
+Symlinking /home/user/catkin_ws/devel/share/gennodejs/ros/service_quiz/srv/BB8CustomServiceMessage.js

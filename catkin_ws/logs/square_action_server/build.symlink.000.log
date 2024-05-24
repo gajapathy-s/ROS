@@ -1,0 +1,3 @@
+Symlinking /home/user/catkin_ws/devel/lib/pkgconfig/square_action_server.pc
+Symlinking /home/user/catkin_ws/devel/share/square_action_server/cmake/square_action_serverConfig.cmake
+Symlinking /home/user/catkin_ws/devel/share/square_action_server/cmake/square_action_serverConfig-version.cmake

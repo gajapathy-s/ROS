@@ -1,0 +1,3 @@
+<launch>
+<node pkg="square_action_server" type="action_server_square.py" name="Drone_Action_server_node" output="screen"/>
+</launch>

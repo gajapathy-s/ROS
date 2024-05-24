@@ -1,0 +1,5 @@
+my_python_class
+/home/user/catkin_ws/devel/.private/my_python_class/cmake.lock /home/user/catkin_ws/devel/./cmake.lock
+/home/user/catkin_ws/devel/.private/my_python_class/lib/pkgconfig/my_python_class.pc /home/user/catkin_ws/devel/lib/pkgconfig/my_python_class.pc
+/home/user/catkin_ws/devel/.private/my_python_class/share/my_python_class/cmake/my_python_classConfig.cmake /home/user/catkin_ws/devel/share/my_python_class/cmake/my_python_classConfig.cmake
+/home/user/catkin_ws/devel/.private/my_python_class/share/my_python_class/cmake/my_python_classConfig-version.cmake /home/user/catkin_ws/devel/share/my_python_class/cmake/my_python_classConfig-version.cmake
